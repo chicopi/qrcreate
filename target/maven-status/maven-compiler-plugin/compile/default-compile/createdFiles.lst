@@ -1,0 +1,4 @@
+com\springreact\demo\DemoApplication.class
+com\springreact\demo\controller\HomeController.class
+com\springreact\demo\controller\HomeController$Colors.class
+com\springreact\demo\controller\IndexController.class
